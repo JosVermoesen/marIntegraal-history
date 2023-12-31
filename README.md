@@ -2,4 +2,4 @@
 
 ## [Angular Updating LOG][updatelog]
 
-[updatelog]: NGUPDATE.md
+[updatelog]: 1985 - year of vsoft/mar-1987/README.md
