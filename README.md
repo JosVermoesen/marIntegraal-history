@@ -1,5 +1,9 @@
-# marIntegraal
+# History of marIntegraal
 
-## [Angular Updating LOG][updatelog]
+## mgrIntegraal December 1985
 
-[updatelog]:marIntegraal-History/1985 - year of vsoft/mar-1987/README.md
+The first version of marIntegraal became available in december 1985. Delivery through local computershops from West-Flanders trough Limburg via the services of distributor.
+
+ [Latest PCW version from 1987][1985]
+
+[1985]:/1985-vsoft/mar-1987/README.md
